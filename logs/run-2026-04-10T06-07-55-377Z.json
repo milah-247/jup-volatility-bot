@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "2026-04-10T06:07:55.409Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 200,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:08:25.626Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 53,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:08:55.627Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 57,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:09:25.654Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 72,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:09:55.679Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 64,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:10:25.704Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 58,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:10:55.721Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 52,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:11:25.723Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 65,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:11:55.726Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 86,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T06:12:25.751Z",
+    "price": 0,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v2?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 54,
+        "http_status": 404,
+        "error": "HTTP error",
+        "raw_response": ""
+      }
+    ]
+  }
+]

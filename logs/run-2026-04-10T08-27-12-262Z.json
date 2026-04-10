@@ -1,0 +1,271 @@
+[
+  {
+    "timestamp": "2026-04-10T08:27:12.295Z",
+    "price": 82.95188372041757,
+    "volatility": 0,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 221,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 86,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 209,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:27:42.822Z",
+    "price": 82.93924391090552,
+    "volatility": 0.006319904756026062,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 73,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 70,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 170,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:28:12.846Z",
+    "price": 82.93228631432498,
+    "volatility": 0.008111934008581043,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 1082,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 69,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 179,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:28:42.871Z",
+    "price": 82.93339464700685,
+    "volatility": 0.00778427656125276,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 58,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 88,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 113,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:29:12.881Z",
+    "price": 82.93892240046463,
+    "volatility": 0.006963367767803107,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 77,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 436,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 162,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:29:42.902Z",
+    "price": 82.94026227100098,
+    "volatility": 0.006370249445326576,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 73,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 115,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 173,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:30:12.919Z",
+    "price": 82.91922336710198,
+    "volatility": 0.009181344014504135,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 76,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 85,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 167,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:30:42.942Z",
+    "price": 82.91954640381358,
+    "volatility": 0.010249245826024938,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 70,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 86,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 161,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:31:12.966Z",
+    "price": 82.96278572711516,
+    "volatility": 0.013162898623868942,
+    "decision": "error",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 77,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /trigger/v1/cancelOrders",
+        "latency_ms": 83,
+        "http_status": 400,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/createOrder",
+        "latency_ms": 148,
+        "http_status": 400,
+        "error": "HTTP error",
+        "raw_response": "{\"code\":400,\"error\":\"Each order valued at 0.50 USDC, minimum is 50.00 USDC\",\"status\":\"Bad Request\"}"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-10T08:31:42.974Z",
+    "price": 82.9845956881656,
+    "volatility": 0.01885497623986268,
+    "decision": "place_oco",
+    "api_calls": [
+      {
+        "endpoint": "GET /price/v3?ids=So11111111111111111111111111111111111111112",
+        "latency_ms": 60,
+        "http_status": 200,
+        "error": null
+      },
+      {
+        "endpoint": "POST /recurring/v1/cancelOrder",
+        "latency_ms": 77,
+        "http_status": 422,
+        "error": "Recurring API unavailable — skipping cancel"
+      },
+      {
+        "endpoint": "POST /trigger/v1/createOrder",
+        "latency_ms": 366,
+        "http_status": 200,
+        "error": null
+      }
+    ]
+  }
+]
